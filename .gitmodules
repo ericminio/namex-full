@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/bcgov/namex.git
+	url = https://github.com/ericminio/namex.git
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/bcgov/name-examination.git
+	url = https://github.com/ericminio/name-examination.git
